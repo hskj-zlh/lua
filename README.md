@@ -1,4 +1,0 @@
-lua
-===
-
-study lua
